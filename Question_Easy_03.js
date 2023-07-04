@@ -40,4 +40,4 @@ function question (n, k) {
     return JSON.stringify(obj);
 };
 
-console.log(question(24, 3));
+// console.log(question(24, 3));

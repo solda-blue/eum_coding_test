@@ -41,5 +41,6 @@ function question (...floor) {
     };
     return result;
 };
-console.log('ex => ', question(7,2,7,3,9,18,0,-1,7,4,2));
+
+// console.log('ex => ', question(7,2,7,3,9,18,0,-1,7,4,2));
 
